@@ -1,5 +1,5 @@
 # 📈 Mini AI Finance Assistant
-![Dashboard Screenshot](Mini AI Finance Assistant/images/dashboard.png)
+![Dashboard Screenshot](Mini%20AI%20Finance%20Assistant/images/dashboard.png)
 
 A lightweight AI-powered financial analysis dashboard built with Python and Streamlit.
 
@@ -106,7 +106,7 @@ The application will:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Mini AI Finance Assistant/images/dashboard.png)
+![Dashboard Screenshot](Mini%20AI%20Finance%20Assistant/images/dashboard.png)
 
 ---
 
