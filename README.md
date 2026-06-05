@@ -1,6 +1,6 @@
 # 📈 Mini AI Finance Assistant
 
-![Dashboard Screenshot](Mini&nbspAI&nbspFinance&nbspAssistant/images/dashboard.png)
+![Dashboard Screenshot](MiniAIFinanceAssistant/images/dashboard.png)
 
 ![Dashboard Screenshot](Mini&nbspAI&nbspFinance&nbspAssistant/images/dashboard2.png)
 
