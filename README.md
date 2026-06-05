@@ -1,74 +1,212 @@
-# Mini AI Finance Assistant
-![Dashboard Screenshot](Mini%20AI%20Finance%20Assistant/images/dashboard.png)
+# 📈 Mini AI Finance Assistant
 
-A lightweight AI-powered financial analysis dashboard built with Python and Streamlit.
+Python
+Streamlit
+Finance
+Portfolio
 
-## Overview
+A comprehensive financial analysis platform built with Python and Streamlit that combines technical analysis, portfolio analytics, risk assessment, sentiment analysis, and portfolio optimization into a single interactive dashboard.
 
-Mini AI Finance Assistant is a web application that allows users to analyze stocks, visualize price movements, calculate technical indicators, and receive automated market commentary.
+---
 
-The project was developed to combine financial analysis, data science, and Python development skills in a practical portfolio project.
+# 🚀 Overview
 
-## Features
+Mini AI Finance Assistant was developed as a portfolio project to demonstrate skills in:
 
-✅ Historical stock price analysis
+- Financial Analysis
+- Data Analysis
+- Python Development
+- Quantitative Finance
+- Portfolio Management
+- Dashboard Development
 
-✅ Interactive price charts
+The application allows users to analyze stocks, evaluate portfolio performance, measure risk, analyze market sentiment, and generate optimized portfolio allocations using Modern Portfolio Theory principles.
 
-✅ Technical indicators
+---
+
+# ✨ Features
+
+## 📊 Stock Analysis
+
+- Historical stock price analysis
+- Interactive price charts
+- Support for global stocks through Yahoo Finance
+- Real-time financial data retrieval
+
+### Technical Indicators
 
 - SMA 20
 - SMA 50
 - SMA 200
 - RSI (Relative Strength Index)
 
-✅ Automated AI-style market commentary
+---
 
-✅ Support for global stocks through Yahoo Finance
+## 🤖 Smart Commentary Engine
 
-✅ Interactive dashboard built with Streamlit
+Rule-based financial commentary system that automatically analyzes:
 
-✅ Portfolio analytics
+- Trend direction
+- Moving average structure
+- Momentum conditions
+- RSI signals
+- Technical outlook
+
+Generates human-readable market commentary without relying on external AI APIs.
+
+---
+
+## 📈 Technical Score System
+
+Custom scoring engine that evaluates technical strength based on:
+
+- Price vs Moving Averages
+- RSI Conditions
+- Trend Structure
+
+Output:
+
+- BULLISH
+- NEUTRAL
+- BEARISH
+
+with a numerical score out of 10.
+
+---
+
+## 💼 Portfolio Analytics
+
+Portfolio performance evaluation including:
 
 - Annual Return
-- Volatility
+- Annual Volatility
 - Sharpe Ratio
-- Max Drawdown
+- Maximum Drawdown
 
-✅ Portfolio Risk Score
+Interactive portfolio performance visualization.
 
 ---
 
-## Technologies Used
+## ⚠️ Risk Scoring Engine
+
+Custom portfolio risk assessment model based on:
+
+- Portfolio Volatility
+- Maximum Drawdown
+- Concentration Risk
+
+Output:
+
+- LOW Risk
+- MEDIUM Risk
+- HIGH Risk
+
+with a risk score out of 10.
+
+---
+
+## 📰 News Sentiment Analysis
+
+Automatic market sentiment detection using financial news headlines.
+
+Features:
+
+- Yahoo Finance news integration
+- Headline extraction
+- Sentiment scoring
+- Market sentiment classification
+
+Output:
+
+- POSITIVE
+- NEUTRAL
+- NEGATIVE
+
+---
+
+## 🎯 Portfolio Optimization
+
+Modern Portfolio Theory inspired optimization engine.
+
+Features:
+
+- Monte Carlo Simulation
+- Sharpe Ratio Maximization
+- Optimal Asset Allocation
+- Portfolio Weight Recommendations
+
+The optimizer evaluates thousands of portfolio combinations to identify the highest risk-adjusted return profile.
+
+---
+
+# 📚 Finance Concepts Used
+
+This project implements several widely used concepts from finance and portfolio management:
+
+- Relative Strength Index (RSI)
+- Moving Averages
+- Trend Following
+- Volatility Analysis
+- Sharpe Ratio
+- Maximum Drawdown
+- Risk Management
+- Portfolio Diversification
+- Monte Carlo Simulation
+- Portfolio Optimization
+- Modern Portfolio Theory (MPT)
+- Sentiment Analysis
+
+---
+
+# 🛠️ Technologies Used
+
+### Programming
 
 - Python
+
+### Data Analysis
+
 - Pandas
 - NumPy
-- Streamlit
-- Plotly
+
+### Financial Data
+
 - yfinance
-- ta (Technical Analysis Library)
+
+### Visualization
+
+- Plotly
+- Streamlit
+
+### Technical Analysis
+
+- ta
 
 ---
 
-## Project Structure
+# 📂 Project Structure
 
-mini-ai-finance-assistant/
-
-├── app.py
-├── requirements.txt
-├── README.md
-
-├── src/
-│   ├── data_loader.py
-│   ├── indicators.py
-│   └── ai_commentary.py
-
-└── .gitignore
+text mini-ai-finance-assistant/  ├── app.py ├── requirements.txt ├── README.md  ├── src/ │   ├── data_loader.py │   ├── indicators.py │   ├── ai_commentary.py │   ├── technical_score.py │   ├── portfolio.py │   ├── risk.py │   ├── news_sentiment.py │   └── optimizer.py  └── .gitignore 
 
 ---
 
-## Installation
+# 📷 Dashboard Preview
+
+## Stock Analysis
+
+Stock Analysis
+
+## Portfolio Analytics
+
+Portfolio Analytics
+
+## Portfolio Optimization
+
+Portfolio Optimization
+
+---
+
+# ⚙️ Installation
 
 Clone the repository:
 
@@ -84,47 +222,40 @@ bash streamlit run app.py
 
 ---
 
-## Example Usage
+# 🎯 Example Tickers
 
-Enter a stock ticker such as:
-
-text AAPL MSFT TSLA GARAN.IS AKBNK.IS TCELL.IS 
-
-The application will:
-
-1. Download historical market data
-2. Calculate technical indicators
-3. Display interactive charts
-4. Generate automated analysis commentary
+text AAPL MSFT TSLA NVDA  GARAN.IS AKBNK.IS TCELL.IS ISCTR.IS AEFES.IS 
 
 ---
 
-## Future Improvements
+# 📌 Future Improvements
 
-- MACD indicator
-- Bollinger Bands
-- Portfolio analysis
-- Risk scoring
-- Sharpe Ratio calculation
-- Max Drawdown analysis
-- News sentiment analysis
-- OpenAI-powered financial commentary
-- BIST-focused stock analysis
+Potential future developments:
 
----
-
-## Disclaimer
-
-This project is for educational and research purposes only.
-
-The information provided does not constitute investment advice. Always conduct your own research before making investment decisions.
+- Efficient Frontier Visualization
+- Backtesting Engine
+- BIST Stock Screener
+- PDF Report Generation
+- Portfolio Tracking
+- Machine Learning Forecasting
+- Multi-Factor Analysis
 
 ---
 
-## Author
+# ⚠️ Disclaimer
+
+This project was developed for educational and research purposes only.
+
+The information provided by this application does not constitute financial or investment advice. Users should conduct their own research before making investment decisions.
+
+---
+
+# 👨‍💻 Author
 
 Koray Yusuf Çakıl
 
 Finance | Data Analysis | Python | Machine Learning
 
 GitHub: https://github.com/koraycakill
+
+LinkedIn: [YOUR_LINKEDI](https://www.linkedin.com/in/koraycakil/)
