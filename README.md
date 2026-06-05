@@ -1,5 +1,9 @@
 # 📈 Mini AI Finance Assistant
 
+![Dashboard Screenshot](Mini&nbspAI&nbspFinance&nbspAssistant/images/dashboard.png)
+
+![Dashboard Screenshot](Mini&nbspAI&nbspFinance&nbspAssistant/images/dashboard2.png)
+
 Python
 Streamlit
 Finance
@@ -187,22 +191,6 @@ This project implements several widely used concepts from finance and portfolio 
 # 📂 Project Structure
 
 text mini-ai-finance-assistant/  ├── app.py ├── requirements.txt ├── README.md  ├── src/ │   ├── data_loader.py │   ├── indicators.py │   ├── ai_commentary.py │   ├── technical_score.py │   ├── portfolio.py │   ├── risk.py │   ├── news_sentiment.py │   └── optimizer.py  └── .gitignore 
-
----
-
-# 📷 Dashboard Preview
-
-## Stock Analysis
-
-Stock Analysis
-
-## Portfolio Analytics
-
-Portfolio Analytics
-
-## Portfolio Optimization
-
-Portfolio Optimization
 
 ---
 
