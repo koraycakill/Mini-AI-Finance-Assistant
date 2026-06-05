@@ -28,6 +28,15 @@ The project was developed to combine financial analysis, data science, and Pytho
 
 ✅ Interactive dashboard built with Streamlit
 
+✅ Portfolio analytics
+
+- Annual Return
+- Volatility
+- Sharpe Ratio
+- Max Drawdown
+
+✅ Portfolio Risk Score
+
 ---
 
 ## Technologies Used
