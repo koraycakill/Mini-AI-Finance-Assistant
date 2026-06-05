@@ -1,8 +1,8 @@
 # 📈 Mini AI Finance Assistant
 
-![Dashboard Screenshot](MiniAIFinanceAssistant/images/dashboard.png)
+![Dashboard Screenshot](Mini%20AI%20Finance%20Assistant/images/dashboard.png)
 
-![Dashboard Screenshot](Mini&nbspAI&nbspFinance&nbspAssistant/images/dashboard2.png)
+![Dashboard Screenshot](Mini%20AI%20Finance%20Assistant/images/dashboard2.png)
 
 Python
 Streamlit
