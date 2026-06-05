@@ -258,4 +258,4 @@ Finance | Data Analysis | Python | Machine Learning
 
 GitHub: https://github.com/koraycakill
 
-LinkedIn: [YOUR_LINKEDI](https://www.linkedin.com/in/koraycakil/)
+LinkedIn: https://www.linkedin.com/in/koraycakil/
